@@ -1,0 +1,62 @@
+html {
+    position: relative;
+    min-height: 100%;
+  }
+.body {  
+    padding-top: 100px; 
+    padding-bottom: 100px;
+
+}
+.td {
+	word-wrap: break-word;
+	min-width: 180px;
+	max-width: 180px;
+}
+.content {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: rgba(0,0,0,.75);
+	padding: 30px;
+	
+}
+
+.navbar-inner {
+	background: rgba(0,0,0,.75);
+	height: 80px;
+}
+
+.push {
+	margin-bottom: 30px;
+	margin-top: 150px;
+}
+
+.footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+	background: rgba(0,0,0,.9);
+	color: #FFFFFF;
+}  
+
+.loginPanel {
+    max-width: 800px;
+	background-color: rgba(0,0,0,.9);
+	color: white;
+	border-radius: 5px;
+	padding: 30px;
+	box-shadow: 0 0 40px 5px rgba(255,255,255,.15);
+	margin-bottom: 100px;
+}
+
+.img-icon {
+    display:block;
+    width: 100px;
+    height: 64px;
+}
+
+/* .ui-autocomplete { 
+	height: 200px; 
+	overflow-y: scroll; 
+	overflow-x: hidden;
+} */
